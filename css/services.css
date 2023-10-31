@@ -1,0 +1,16 @@
+#one{
+    background-image: url("../img/create-section1.jpg");
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#two{
+text-align: center;
+}
+#authors .card:hover {
+    background: #3292a6;
+    color: #fff; }
+    #authors .card:hover .fa {
+      color: #fff; }

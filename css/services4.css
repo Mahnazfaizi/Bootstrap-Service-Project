@@ -1,0 +1,17 @@
+#one{
+    background-image: url("../img/to.jpg");
+    height: 500px;
+    background-size: cover;
+
+}
+#two{
+    text-align: center;
+    padding-top: 150px;
+    
+}
+a{
+    color: black;
+}
+#en{
+    text-align: center;
+}

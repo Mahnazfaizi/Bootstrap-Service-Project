@@ -1,0 +1,12 @@
+body{
+    background-image: url("../img/op.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#on{
+    font-size: 80px
+}
+#fo{
+    font-size: 30px;
+ 
+}
